@@ -18,7 +18,9 @@ class MyApp extends StatelessWidget {
         //Stanley
         // isaacccc
         // Jake
-        // JZ
+        //Rithikha
+        //Tangxin
+        //ZhiWei
         // Try running your application with "flutter run". You'll see the
         // application has a blue toolbar. Then, without quitting the app, try
         // changing the primarySwatch below to Colors.green and then invoke
