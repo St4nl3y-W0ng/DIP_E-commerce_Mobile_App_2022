@@ -20,6 +20,9 @@ class MyApp extends StatelessWidget {
         // Jake
         //Rithikha
         //Tangxin
+        //ZhiWei test 1
+        //JiaZhe tries again
+        //Nisa
         // Try running your application with "flutter run". You'll see the
         // application has a blue toolbar. Then, without quitting the app, try
         // changing the primarySwatch below to Colors.green and then invoke
@@ -29,7 +32,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Flutter Demo Anyhow'),
     );
   }
 }
