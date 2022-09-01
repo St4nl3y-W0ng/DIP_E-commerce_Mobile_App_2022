@@ -1,6 +1,6 @@
 # frontend
 
-Front End for DIP
+Front-end for DIP
 
 ## Getting Started
 
