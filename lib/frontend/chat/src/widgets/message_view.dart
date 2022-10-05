@@ -88,7 +88,7 @@ class _MessageViewState extends State<MessageView>
     return GestureDetector(
       onLongPressStart: _onLongPressStart,
       onDoubleTap: () {
-        if (widget.onDoubleTap != null) widget.onDoubleTap!(widget.message);
+        //if (widget.onDoubleTap != null) widget.onDoubleTap!(widget.message);
       },
       child: AnimatedBuilder(
         builder: (BuildContext context, Widget? child) {

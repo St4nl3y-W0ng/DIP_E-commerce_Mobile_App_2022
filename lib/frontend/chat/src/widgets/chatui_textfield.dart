@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 import 'package:flutter/material.dart';
-import '../../chatview.dart';
+import 'package:nanyang_marche/frontend/chat/src/widgets/chatview.dart' as chatView;
 import '../models/send_message_configuration.dart';
 import '../utils/package_strings.dart';
 import '../values/typedefs.dart';

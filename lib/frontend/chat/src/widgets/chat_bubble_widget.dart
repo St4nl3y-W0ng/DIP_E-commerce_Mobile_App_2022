@@ -155,6 +155,8 @@ class ChatBubbleWidget extends StatelessWidget {
           imageMessageConfig: messageConfig?.imageMessageConfig,
           longPressAnimationDuration:
               chatBubbleConfig?.longPressAnimationDuration,
+          //onDoubleTap: chatBubbleConfig?.onDoubleTap! ??
+              //(message) => chatController.setReaction(heart, message.id),
         ),
       ],
     );

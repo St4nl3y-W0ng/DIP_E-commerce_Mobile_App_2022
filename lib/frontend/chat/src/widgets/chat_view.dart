@@ -334,16 +334,16 @@ class _ChatViewState extends State<ChatView>
                                           },
                                         ),
                                       ),
-                                      TypingIndicator(
-                                        typeIndicatorConfig:
-                                            widget.typeIndicatorConfig,
-                                        chatBubbleConfig: widget
-                                            .chatBubbleConfig
-                                            ?.inComingChatBubbleConfig,
-                                        showIndicator: showTypingIndicator,
-                                        profilePic: widget.profileCircleConfig
-                                            ?.profileImageUrl,
-                                      ),
+                                      //TypingIndicator(
+                                        //typeIndicatorConfig:
+                                            //widget.typeIndicatorConfig,
+                                        //chatBubbleConfig: widget
+                                            //.chatBubbleConfig
+                                            //?.inComingChatBubbleConfig,
+                                        //showIndicator: showTypingIndicator,
+                                        //profilePic: widget.profileCircleConfig
+                                            //?.profileImageUrl,
+                                      //),
                                       SizedBox(
                                         height:
                                             MediaQuery.of(context).size.width *

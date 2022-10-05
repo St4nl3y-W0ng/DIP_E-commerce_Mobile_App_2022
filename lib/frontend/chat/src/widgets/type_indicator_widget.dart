@@ -24,7 +24,9 @@ import 'package:flutter/material.dart';
 
 import 'package:chatview/src/widgets/profile_circle.dart';
 
-import '../../chatview.dart';
+import 'package:nanyang_marche/frontend/chat/src/widgets/chatview.dart' as chatView;
+import '../models/chat_bubble.dart';
+import '../models/type_indicator_configuration.dart';
 import '../utils/constants.dart';
 
 class TypingIndicator extends StatefulWidget {
