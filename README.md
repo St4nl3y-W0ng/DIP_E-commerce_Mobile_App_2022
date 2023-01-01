@@ -24,9 +24,9 @@ To run the project, use command
 <br>
 <code> flutter run </code>
 
-Please refer to our pubspec.yaml file for list of dependences
+###Please refer to our pubspec.yaml file for list of dependences
 
-Documentation
+##Documentation
 
 https://docs.flutter.dev/
 
