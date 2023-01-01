@@ -2,15 +2,32 @@
 
 DIP Proj 2022
 
-## Getting Started
+## This is our EE3080 Design Innovation project
 
-This project is a starting point for a Flutter application.
+This is a Flutter Project which is a E-commerce application utilising Firebase as our backend
 
-A few resources to get you started if this is your first Flutter project:
+First install the dependencies with command
+<br>
+<code> flutter pub get </code>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To build the project for android, use command
+<br>
+<code> flutter build apk </code>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To build the project for ios, use command
+<br>
+<code> flutter build ios </code>
+
+use flags <code> --debug </code> and <code> --release </code> as needed
+
+To run the project, use command
+<br>
+<code> flutter run </code>
+
+Please refer to our pubspec.yaml file for list of dependences
+
+Documentation
+
+https://docs.flutter.dev/
+
+https://firebase.google.com/docs
